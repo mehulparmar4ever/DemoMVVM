@@ -2,8 +2,8 @@
 //  NearbyUITests.swift
 //  NearbyUITests
 //
-//  Created by Abhisek on 07/05/18.
-//  Copyright © 2018 Abhisek. All rights reserved.
+//  Created by Mehul on 06/29/19.
+//  Copyright © 2018 Demo. All rights reserved.
 //
 
 import XCTest
